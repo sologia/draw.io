@@ -577,7 +577,7 @@
           <mxGeometry x="440" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELPIg3-_JGSEbzgYgWoM-8" value="Pagan" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ELPIg3-_JGSEbzgYgWoM-9" value="ofrece" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
@@ -875,6 +875,33 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-330" y="450" as="sourcePoint" />
             <mxPoint x="60" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-77" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="334" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ELPIg3-_JGSEbzgYgWoM-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="670" as="sourcePoint" />
+            <mxPoint x="500" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-79" value="Cedula" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ELPIg3-_JGSEbzgYgWoM-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="700" as="sourcePoint" />
+            <mxPoint x="500" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-81" value="Buffete" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-82" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELPIg3-_JGSEbzgYgWoM-81" target="ELPIg3-_JGSEbzgYgWoM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="870" as="sourcePoint" />
+            <mxPoint x="520" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
