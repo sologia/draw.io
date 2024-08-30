@@ -904,6 +904,24 @@
             <mxPoint x="520" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-87" value="fecha_pago" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-88" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELPIg3-_JGSEbzgYgWoM-87" target="ELPIg3-_JGSEbzgYgWoM-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="630" as="sourcePoint" />
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-89" value="tipo_pago" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ELPIg3-_JGSEbzgYgWoM-90" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELPIg3-_JGSEbzgYgWoM-89" target="ELPIg3-_JGSEbzgYgWoM-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="755" as="sourcePoint" />
+            <mxPoint x="440" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
