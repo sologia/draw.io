@@ -268,6 +268,33 @@
         <mxCell id="XUCS_iUz-x1Po91_J8PE-63" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="XUCS_iUz-x1Po91_J8PE-68" source="XUCS_iUz-x1Po91_J8PE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="430" as="sourcePoint" />
+            <mxPoint x="90" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-68" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="XUCS_iUz-x1Po91_J8PE-70" source="XUCS_iUz-x1Po91_J8PE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="385" as="sourcePoint" />
+            <mxPoint x="60" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-70" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="XUCS_iUz-x1Po91_J8PE-73" source="XUCS_iUz-x1Po91_J8PE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="480" as="sourcePoint" />
+            <mxPoint x="70" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XUCS_iUz-x1Po91_J8PE-73" value="N_Matricula" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
